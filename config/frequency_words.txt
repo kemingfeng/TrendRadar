@@ -103,6 +103,7 @@ Optimus
 
 苹果
 Apple
+果链
 
 微软
 Microsoft
@@ -128,13 +129,7 @@ Sam Altman
 claude
 Anthropic
 
-iphone
-ipad
-mac
-ios
-
 ai
-!gai
 人工智能
 
 自动驾驶
@@ -142,16 +137,10 @@ ai
 机器人
 
 国产
-中国
-
-美国
-日本
-韩国
 
 芯片
 光刻机
 
-科技
 
 核能
 
